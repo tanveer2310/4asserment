@@ -1,0 +1,174 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*--Header--*/
+header{
+    width: 100%;
+    background:#87509C;
+    height: 80px;
+    float: left;
+    
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+.header-one{
+    width: 20%;
+    float: left;
+}
+.header-one img{
+    padding: 21.5px 0px;
+}
+.header-two{
+    width: 80%;
+    float: left;
+}
+.header-two ul{
+    margin-left: 135px; 
+}
+.header-two ul li{
+    font-size: 22px;
+    margin-left: 25px;
+    display: inline-block;
+    padding: 27px 10px;
+    
+}
+.header-two ul li a{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.header-two ul li a:hover{
+    background: sienna;
+}
+/*--Header END--*/
+
+
+/*--banner--*/
+.banner{
+    width: 100%;
+    float: left;
+    height: 420px;
+    background: #87509C;
+}
+.banner-one{
+    padding: 100px 0px;
+}
+.banner h1{
+    color: white;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    line-height:35px;
+}
+.banner-button{
+    background: #F48F5E;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    margin: 0 auto;
+    border: none;
+    margin-top: 25px;
+}
+/*--banner--*/
+
+/*--service--*/
+.brand{
+    width: 100%;
+    float: left;
+    height: 430px;
+    background: #2DC4A8;
+    padding-top: 40px;
+}
+.brand-one{
+    width: 520px;
+    text-align: center;
+    margin: 0 auto;
+}
+hr{
+    height: 2px;
+    width: 80px;
+    border: black;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 4px;
+}
+.brand-two{
+    width: 100%;
+    margin-top: 30px;
+}
+.brand-two-one{
+    float: left;
+    width: 25%;
+    text-align: center;
+    color: white;
+}
+.brand-two-one img{
+    width: 100px;
+    height: 120px;
+}
+.brand-two-one h3{
+    margin-top: 12px;
+}
+.brand-two-one p{
+    margin-top: 15px;
+    padding: 0px 24px;
+}
+/*--service--*/
+
+/*--team--*/
+
+.team{
+    width: 100%;
+    height: 540px;
+    float: left;
+    padding-top: 40px;
+    background: #D3D3D3;
+}
+.team-one{
+    width: 520px;
+    text-align: center;
+    margin: 0 auto;
+}
+.team-one p{
+    margin-top: 10px;
+}
+.team-two-one{
+    width: 25%;
+    float: left;
+    text-align: center;
+    margin-top: 30px;
+}
+.team-two-one img{
+    width: 170px;
+}
+.team-two-one h3{
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    margin-top: 10px;
+}
+.team-two-one h4{
+    color: rgb(95, 53, 53);
+    margin-top: 3px;
+}
+.team-two-one p{
+    padding: 10px 20px;
+}
+.team-two-one ul li{
+    width: 35px;
+    color: white;
+    display: inline-block;
+    background: #919090;
+    border-radius: 20px;
+    padding: 5px 10px;
+    margin-left: 5px;
+}
+.minuddin{
+    border-radius: 50%;
+}
+/*--team--*/
